@@ -1,0 +1,23 @@
+p , li{
+  line-height:1.5;
+  font-size: 1.2rem;
+}
+
+
+h2 {
+  font-size: 1.5rem;
+  color: #357edd;
+}
+
+h3 {
+  font-size : 1.25rem;
+  color: #357edd;
+}
+
+li a, p a {
+  color: #96ccff;
+}
+
+a {
+  text-decoration: none;
+}
